@@ -1,0 +1,2 @@
+# displayarraylistandinsideofarrayaccessvalueofobjectusingmapmethod
+Created with CodeSandbox
